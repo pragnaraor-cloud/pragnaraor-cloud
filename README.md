@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on **Java and DSA practice projects**
+- 🌱 I'm currently learning **Java, Data Structures & Algorithms, and Full-Stack Development**
+- 👯 I'm looking to collaborate on **beginner-friendly projects and open-source contributions**
+- 🤔 I'm looking for help with **problem-solving, writing clean code, and building real-world projects**
+- 📫 How to reach me: **Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)**
+- 😄 Pronouns: **She/Her
+- ⚡ Fun fact: **I'm neither a tea nor a coffee person!** ☕🚫
+
+### About Me
+🎓 Third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+
+💻 Focused on strengthening my programming fundamentals and problem-solving skills.
+
+🚀 Exploring software development and building my skills one project at a time.
 -->
