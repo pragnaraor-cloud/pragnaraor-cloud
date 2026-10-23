@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 ### About Me
 🎓 Third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
+
 💻 Focused on strengthening my programming fundamentals and problem-solving skills.
+
 🚀 Exploring software development and building my skills one project at a time.
 
